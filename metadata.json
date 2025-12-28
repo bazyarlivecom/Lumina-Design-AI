@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Design AI",
+  "description": "Interactive interior design consultant. Reimagine your space with AI-generated styles, compare transformations, and chat for shoppable advice.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
